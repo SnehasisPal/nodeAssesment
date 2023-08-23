@@ -1,0 +1,8 @@
+ http://localhost:3000/books
+http://localhost:3000/books/1
+ http://localhost:3000/books
+ http://localhost:3000/books/1
+http://localhost:3000/books/1
+
+
+
